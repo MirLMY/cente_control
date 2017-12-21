@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(77): warning C4101: “timestamp”: 未引用的局部变量
+main.cpp(87): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  2 of 103 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  cente_control.vcxproj -> C:\Users\Administrator\Desktop\cente_control\Release\cente_control.exe

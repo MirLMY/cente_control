@@ -1,0 +1,34 @@
+﻿生成启动时间为 2017/8/23 9:17:56。
+     1>项目“E:\LiuMengYang\sanploy\cente_control\cente_control\cente_control\cente_control.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VisualStudio2015\VC\bin\CL.exe /c /IE:\LiuMengYang\sanploy\Demo\ThreadDemo\ThreadDemo1\CJSON /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(86): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'time_t'
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(86): note: consider using '%lld' in the format string
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(86): note: consider using '%I64d' in the format string
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(122): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'time_t'
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(122): note: consider using '%lld' in the format string
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(122): note: consider using '%I64d' in the format string
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(141): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'time_t'
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(141): note: consider using '%lld' in the format string
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(141): note: consider using '%I64d' in the format string
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(187): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+         c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(254): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(254): note: consider using '%lld' in the format string
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(254): note: consider using '%I64d' in the format string
+     1>e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(255): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'time_t'
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(255): note: consider using '%lld' in the format string
+         e:\liumengyang\sanploy\cente_control\cente_control\cente_control\main.cpp(255): note: consider using '%I64d' in the format string
+       Link:
+         F:\VisualStudio2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\LiuMengYang\sanploy\cente_control\cente_control\Debug\cente_control.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\LiuMengYang\sanploy\cente_control\cente_control\Debug\cente_control.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\LiuMengYang\sanploy\cente_control\cente_control\Debug\cente_control.lib" /MACHINE:X86 Debug\cjson.obj
+         Debug\ConnetctTcpcli.obj
+         Debug\main.obj
+         Debug\other.obj
+         cente_control.vcxproj -> E:\LiuMengYang\sanploy\cente_control\cente_control\Debug\cente_control.exe
+     1>已完成生成项目“E:\LiuMengYang\sanploy\cente_control\cente_control\cente_control\cente_control.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.22
